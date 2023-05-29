@@ -1,0 +1,10 @@
+build
+build-*
+*.user
+Debug
+*.aux
+*.log
+*.out
+*.synctex.gz
+.idea
+*.pro.user*
